@@ -1,3 +1,4 @@
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/boldint/terraform-azurerm-module-rg/master.svg)](https://results.pre-commit.ci/latest/github/boldint/terraform-azurerm-module-rg/master)
 # Azure Terraform Resource Group Module
 
 [//]: # (Do NOT make manual changes below this line! Automatic generation of content!)
